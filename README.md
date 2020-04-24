@@ -1,5 +1,4 @@
-# ktane-iconic
-Iconic - A boss module for Keep Talking and Nobody Explodes
+#Iconic
 
 This module requires special support for each included module. Here are the supported modules in chronological order:
 
@@ -14,3 +13,46 @@ This module requires special support for each included module. Here are the supp
 - Wire Sequence
 - Maze
 - Password
+- Colour Flash
+- Piano Keys
+- Semaphore
+- Emoji Math
+- Switches
+- Two Bits
+- Word Scramble
+- Anagrams
+- Combination Lock
+- Square Button
+- Simon States
+- Round Keypad
+- Listening
+- Foreign Exchange Rates
+- Orientation Cube
+- Morsematics
+- Connection Check
+- Letter Keys
+- Rotary Phone
+- Astrology
+- Logic
+- Crazy Talk
+- Adventure Game
+- Mystic Square
+- Plumbing
+- Cruel Piano Keys
+- Safety Safe
+- Cryptography
+- Chess
+- Turn The Keys
+- Mouse In The Maze
+- 3D Maze
+- Silly Slots
+- Number Pad
+- Laundry
+- Probing
+- Resistors
+- Skewed Slots
+- Caesar Cipher
+- Perspective Pegs
+- Microcontroller
+- Murder
+- The Gamepad
