@@ -1,6 +1,6 @@
 # Iconic
 
-This module requires special support for each included module. Here are the supported modules in chronological order:
+This module requires special support for each included module. Here are the supported modules in chronological order (note that the needies and ignored modules in this list will get their own special support at a later date):
 
 - Wires
 - The Button
@@ -13,33 +13,44 @@ This module requires special support for each included module. Here are the supp
 - Wire Sequence
 - Maze
 - Password
+- Venting Gas
+- Capacitor Discharge
+- Knob
 - Colour Flash
 - Piano Keys
 - Semaphore
+- Math
 - Emoji Math
+- Lights Out
 - Switches
 - Two Bits
 - Word Scramble
 - Anagrams
 - Combination Lock
+- Filibuster
+- Motion Sense
 - Square Button
 - Simon States
 - Round Keypad
 - Listening
 - Foreign Exchange Rates
+- Answering Questions
 - Orientation Cube
 - Morsematics
 - Connection Check
 - Letter Keys
+- Forget Me Not
 - Rotary Phone
 - Astrology
 - Logic
 - Crazy Talk
 - Adventure Game
+- Turn The Key
 - Mystic Square
 - Plumbing
 - Cruel Piano Keys
 - Safety Safe
+- Tetris
 - Cryptography
 - Chess
 - Turn The Keys
@@ -56,3 +67,34 @@ This module requires special support for each included module. Here are the supp
 - Microcontroller
 - Murder
 - The Gamepad
+- Tic-Tac-Toe
+- Who's That Monsplode
+- Monsplode, Fight!
+- Shape Shift
+- Follow the Leader
+- Friendship
+- The Bulb
+- Alphabet
+- Blind Alley
+- Sea Shells
+- English Test
+- Rock-Paper-Scissors-Lizard-Spock
+- Hexamaze
+- Bitmaps
+- Colored Squares
+- Adjacent Letters
+- Third Base
+- Souvenir
+- Word Search
+- Broken Buttons
+- Simon Screams
+- Modules Against Humanity
+- Complicated Buttons
+- Battleship
+- Text Field
+- Symbolic Password
+- Wire Placement
+- Double-Oh
+- Cheap Checkout
+- Coordinates
+- Light Cycle
