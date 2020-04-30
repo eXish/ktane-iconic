@@ -6,7 +6,7 @@ This module requires special support for each included module. Here are the supp
 - The Button
 - Keypad
 - Simon Says
-- Who's on First
+- Who’s on First
 - Memory
 - Morse Code
 - Complicated Wires
@@ -68,7 +68,7 @@ This module requires special support for each included module. Here are the supp
 - Murder
 - The Gamepad
 - Tic-Tac-Toe
-- Who's That Monsplode
+- Who’s That Monsplode
 - Monsplode, Fight!
 - Shape Shift
 - Follow the Leader
@@ -98,3 +98,28 @@ This module requires special support for each included module. Here are the supp
 - Cheap Checkout
 - Coordinates
 - Light Cycle
+- HTTP Response
+- Rhythms
+- Color Math
+- Only Connect
+- Neutralization
+- Web Design
+- Chord Qualities
+- Creation
+- Rubik’s Cube
+- FizzBuzz
+- The Clock
+- LED Encryption
+- Edgework
+- Bitwise Operations
+- Fast Math
+- Minesweeper
+- Zoo
+- Binary LEDs
+- Boolean Venn Diagram
+- Point of Order
+- Ice Cream
+- Hex To Decimal
+- The Screw
+- Yahtzee
+- X-Ray
