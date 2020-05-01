@@ -67,7 +67,7 @@ This module requires special support for each included module. Here are the supp
 - Microcontroller
 - Murder
 - The Gamepad
-- Tic-Tac-Toe
+- Tic Tac Toe
 - Who’s That Monsplode
 - Monsplode, Fight!
 - Shape Shift
